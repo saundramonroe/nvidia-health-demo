@@ -1,0 +1,21 @@
+patient_id,name,age,gender,diagnosis,room,hr,spo2,sbp,rr,risk_score,risk_level,news2_score,combined_flag_count,trend_severity,alert
+ICU-0001,Noah Rhodes,86,F,Pneumonia,3E,135.0,82.3,96.3,45.0,0.9977,HIGH,12,7,14.955,1
+ICU-0003,Daniel Wagner,49,M,Post-cardiac surgery,3A,114.4,83.1,83.4,34.9,0.9977,HIGH,12,7,12.012,1
+ICU-0007,Gina Moore,73,F,GI bleed,2F,144.5,76.7,82.4,45.0,0.9977,HIGH,12,7,17.19,1
+ICU-0010,Monica Herrera,45,M,GI bleed,2A,121.8,87.1,112.4,40.2,0.9977,HIGH,9,6,13.462,1
+ICU-0012,Lisa Hensley,58,M,GI bleed,5E,172.4,80.8,111.2,39.1,0.9977,HIGH,9,6,17.104,1
+ICU-0014,Dylan Miller,70,M,Traumatic brain injury,4C,148.6,74.1,100.7,45.0,0.9977,HIGH,9,6,18.201,1
+ICU-0015,Brian Ramirez,74,F,Acute renal failure,2E,172.5,85.4,85.2,45.0,0.9977,HIGH,12,7,15.675,1
+ICU-0019,Carla Gray,87,F,Post-op bowel resection,3B,162.6,78.6,63.6,43.2,0.9977,HIGH,12,7,19.8,1
+ICU-0030,Rebecca Henderson,78,F,Pulmonary embolism,3B,125.9,85.6,87.5,36.0,0.9977,HIGH,12,7,12.356,1
+ICU-0031,James Ferrell,59,F,GI bleed,5F,143.1,82.5,60.0,32.1,0.9977,HIGH,12,7,16.106,1
+ICU-0039,Brittany Farmer,85,M,GI bleed,3B,136.8,81.2,86.9,43.1,0.9977,HIGH,12,7,14.234,1
+ICU-0043,Anthony Humphrey,91,F,GI bleed,3F,151.4,78.2,71.8,33.1,0.9977,HIGH,12,7,15.539,1
+ICU-0053,Mark Perez,59,M,Post-cardiac surgery,1G,150.0,82.3,60.0,33.7,0.9977,HIGH,12,7,16.65,1
+ICU-0055,Michael Lewis,84,M,Pulmonary embolism,3F,134.1,84.2,68.0,33.7,0.9977,HIGH,12,7,15.866,1
+ICU-0060,Victoria Garcia,54,M,Pneumonia,1F,120.9,91.9,74.4,30.7,0.9977,HIGH,12,7,11.27,1
+ICU-0068,James Brown,48,M,Post-op bowel resection,4G,120.8,80.7,92.0,35.7,0.9977,HIGH,12,7,17.062,1
+ICU-0070,Jordan Henderson,70,M,Traumatic brain injury,1E,112.7,78.1,90.5,34.1,0.9977,HIGH,12,7,12.871,1
+ICU-0071,Whitney Peters,84,F,Traumatic brain injury,4I,179.7,82.9,60.0,38.4,0.9977,HIGH,12,7,18.214,1
+ICU-0072,Brittney Phillips,74,M,Pulmonary embolism,3B,132.1,84.4,94.2,42.9,0.9977,HIGH,12,7,13.714,1
+ICU-0078,Steve Sanchez,38,F,Sepsis,5H,131.7,79.7,89.0,28.5,0.9977,HIGH,12,7,15.549,1

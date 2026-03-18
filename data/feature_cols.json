@@ -29,7 +29,8 @@
     "tachycardia_flag",
     "hypoxia_flag",
     "hypotension_flag",
-    "tachypnea_flag"
+    "tachypnea_flag",
+    "diagnosis_risk"
   ],
   "feature_display": [
     "Heart Rate",
@@ -61,6 +62,7 @@
     "Tachycardia Flag",
     "Hypoxia Flag",
     "Hypotension Flag",
-    "Tachypnea Flag"
+    "Tachypnea Flag",
+    "Diagnosis Risk"
   ]
 }
